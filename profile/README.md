@@ -5,4 +5,4 @@ We believe that entertainment should be inclusive and welcoming, and anyone who 
 Furtainment.com
 
 Subsidiaries 
-@LabefyGames
+<a href="https://github.com/LabefyGames">@LabefyGames</a>
