@@ -4,7 +4,7 @@ Furtainment’s mission is to give people the ability to finance, create, publis
 
 We believe that entertainment should be inclusive and welcoming, and anyone who joins our team will be passionate about creating a safe and positive space for everyone to enjoy our content.
 
-Furtainment.com
+More info: <a href="https://furtainment.com">Furtainment.com</a>
 
 <h2>Subsidiaries</h2>
 <ul>
