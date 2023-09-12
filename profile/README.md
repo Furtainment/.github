@@ -12,3 +12,8 @@ More info: <a href="https://furtainment.com">Furtainment.com</a>
   <li><a href="https://github.com/SnackFerret">@SnackFerret</a></li>
   <li><a href="https://github.com/LabefyGames">@LabefyGames</a></li>
 </ul>
+
+<h2>Lab</h2>
+<ul>
+  <li><a href="https://github.com/KewlLab">@KewlLab</a></li>
+</ul>
