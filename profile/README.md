@@ -4,5 +4,9 @@ We believe that entertainment should be inclusive and welcoming, and anyone who 
 
 Furtainment.com
 
-Subsidiaries 
-<a href="https://github.com/LabefyGames">@LabefyGames</a>
+<h1>Subsidiaries</h1>
+<ul>
+  <li><a href="https://github.com/FurShows">@FurShows</a></li>
+  <li><a href="https://github.com/SnackFerret">@SnackFerret</a></li>
+  <li><a href="https://github.com/LabefyGames">@LabefyGames</a></li>
+</ul>
