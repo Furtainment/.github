@@ -49,4 +49,4 @@ More info: <a href="https://furtainment.com">Furtainment.com</a>
 
 <b>Connect with us:</b>
 
-* <b>Social: <a href="https://x.com/Furtainment">X</a> | <a href="https://bsky.app/profile/furtainment.com">Bsky</a> | <a href="https://www.threads.net/@furtainment">Threads</a> | </b>
+* <b>Social: <a href="https://x.com/Furtainment">X</a> | <a href="https://bsky.app/profile/furtainment.com">Bsky</a> | <a href="https://www.threads.net/@furtainment">Threads</a> | <a href="https://t.me/furtainments">Telegram</a> | </b>
