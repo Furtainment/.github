@@ -19,3 +19,7 @@ More info: <a href="https://furtainment.com">Furtainment.com</a>
 <ul>
   <li><a href="https://github.com/KewlLab">@KewlLab</a></li>
 </ul>
+
+<b>Connect with us:</b>
+
+* <b>Social: <a href="https://x.com/Furtainment">X</a> | <a href="https://bsky.app/profile/furtainment.com">Bsky</a> | <a href="https://www.threads.net/@furtainment">Threads</a> | </b>
