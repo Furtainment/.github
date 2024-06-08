@@ -1,4 +1,31 @@
-<h2>Welcome to Furtainment</h2>
+<h1><p align="center">Welcome to Furtainment</p></h1>
+<h3><p align="center">
+  <b>Enjoy Furtainment, Live The Fandom!</b>
+</p></h3></br>
+
+<ul>
+  <li>Corp Info: <a href="https://furtainment.com">https://furtainment.com</a></li>
+  <li>Wiki Docs: <a href="https://github.com/Furtainment/docs/wiki">https://github.com/Furtainment/docs/wiki</a></li>
+</ul>
+
+<!-- [START BADGES] -->
+&nbsp;&nbsp;
+<p align="center" dir="auto">
+  <a href="https://www.linkedin.com/company/furtainment/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-8b0000?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/furtainment/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-8b0000?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Furtainment">
+  <img alt="Static Badge" src="https://img.shields.io/badge/youtube-8b0000?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://sketchfab.com/furtainment/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sketchfab-8b0000?&amp;style=for-the-badge&amp;logo=sketchfab&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://steamcommunity.com/groups/Furtainment">
+  <img alt="Static Badge" src="https://img.shields.io/badge/steam-8b0000?&amp;style=for-the-badge&amp;logo=steam&amp;logoColor=white"></a>
+</p>
 
 Furtainment’s mission is to give people the ability to finance, create, publish, and grow their fans through the love of anthropomorphics.
 
