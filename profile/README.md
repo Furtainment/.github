@@ -3,6 +3,8 @@
   <b>Enjoy Furtainment, Live The Fandom!</b>
 </p></h3></br>
 
+![Furtainment Header Logo.](https://cdn.furrys.org/github/furtainment/images/furtainment_github_1500x400.png)
+
 <ul>
   <li>Corp Info: <a href="https://furtainment.com">https://furtainment.com</a></li>
   <li>Wiki Docs: <a href="https://github.com/Furtainment/docs/wiki">https://github.com/Furtainment/docs/wiki</a></li>
