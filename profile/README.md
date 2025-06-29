@@ -6,6 +6,7 @@
 [![Furtainment Header Logo.](https://cdn.furrys.org/github/furtainment/images/furtainment_github_1500x400.png)](https://furtainment.com)
 
 <ul>
+  <li>Watch: <a href="https://watch.furtainment.com">https://watch.furtainment.com</a></li>
   <li>Corp Info: <a href="https://furtainment.com/about-us/">https://furtainment.com/about-us/</a></li>
   <li>Wiki Docs: <a href="https://github.com/Furtainment/docs/wiki">https://github.com/Furtainment/docs/wiki</a></li>
 </ul>
