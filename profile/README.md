@@ -36,7 +36,7 @@ We believe that entertainment should be inclusive and welcoming, and anyone who 
 
 Repositories are spread across different organisations assocated with Furtainment (See the subsidiaries listed below).
 
-More info: <a href="https://furtainment.com">Furtainment.com</a>
+More info: <a href="https://furtainment.com">furtainment.com</a>
 
 <h2>Subsidiaries</h2>
 <ul>
