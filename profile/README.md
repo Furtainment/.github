@@ -9,6 +9,7 @@
   <li>Watch: <a href="https://watch.furtainment.com">https://watch.furtainment.com</a></li>
   <li>Corp Info: <a href="https://furtainment.com/about-us/">https://furtainment.com/about-us/</a></li>
   <li>Wiki Docs: <a href="https://github.com/Furtainment/docs/wiki">https://github.com/Furtainment/docs/wiki</a></li>
+  <li>Social Feed: <a href="https://feeds.furtainment.com/@Furtainment">https://feeds.furtainment.com/@Furtainment</a></li>
 </ul>
 
 <!-- [START BADGES] -->
