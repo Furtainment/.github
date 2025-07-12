@@ -44,6 +44,7 @@ More info: <a href="https://furtainment.com">furtainment.com</a>
   <li><a href="https://github.com/FurShows">@FurShows</a></li>
   <li><a href="https://github.com/SnackFerret">@SnackFerret</a></li>
   <li><a href="https://github.com/LabefyGames">@LabefyGames</a></li>
+  <li><a href="https://github.com/FossaLabs">@FossaLabs</a>
 </ul>
 
 <h2>Lab</h2>
