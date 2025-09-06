@@ -11,6 +11,7 @@
   <li>Wiki Docs: <a href="https://github.com/Furtainment/docs/wiki">https://github.com/Furtainment/docs/wiki</a></li>
   <li>Wiki Docs: <a href="https://anthroinfo.com">https://anthroinfo.com</a></li>
   <li>Social Feed: <a href="https://feeds.furtainment.com/@Furtainment">https://feeds.furtainment.com/@Furtainment</a></li>
+  <li>Branding: <a href="https://brandfetch.com/furtainment.com">https://brandfetch.com/furtainment.com</a></li>
 </ul>
 
 <!-- [START BADGES] -->
